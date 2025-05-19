@@ -61,9 +61,20 @@ These sequences allow fine-grained control over text formatting, making them inv
 ## 3) Questions
 
 1. Which escape sequences did not work on your machine? Which ones did?
+
+Linux: \r and \n works
+
 2. How can you use `\r` (carriage return) to overwrite a line in the terminal?
+
+\r jumps to the first place of the actual line.
+
 3. What is the difference between `\n` (line feed) and `\r` (carriage return), and how does their behavior differ across operating systems?
+
+\n jumps to the next line, \r sets the curor to the first place. Some Terminals need both
+
 4. How do ANSI escape codes extend the functionality of basic control sequences?
+
+You can skip line, uses tabs, delete characters,etc.
 
 ## 4) Advice
 
