@@ -1,6 +1,7 @@
 <!---
 {
-  "depends_on": ["printf for constant Strings"],
+  "id": "cdd3d87d-0e87-4a00-a676-83ca9f245bd7",
+  "depends_on": ["a2596a91-c7de-477a-bfbb-b08867f1aa89"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-20",
   "keywords": ["learning", "exercises", "education", "practice", "printf", "escape sequence", "control code"]
